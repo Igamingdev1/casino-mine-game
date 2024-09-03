@@ -1,4 +1,4 @@
-# Crash-Coinflip-Plinko-Casinogames
+# Mine-Casinogame
  Casino Mine games (MERN Stack)
  
 <img  src="./mine1.png" />
